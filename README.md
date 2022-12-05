@@ -9,4 +9,4 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domel2222&theme=chartreuse-dark&show_icons=true&count_private=true)
-![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&layout=compact)
