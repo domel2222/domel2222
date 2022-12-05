@@ -1,4 +1,4 @@
-### Hi there,I'm Dominik 👋 
+### Hi there, I'm Dominik 👋 
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://pl.linkedin.com/in/dominik-wiklinski)
