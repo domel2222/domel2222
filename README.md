@@ -1,4 +1,4 @@
-### Hi there, I'm Dominik 👋 <div align = 'right'>![] (https://komarev.com/ghpvc/?username=domel2222&color=orange)</div>
+### Hi there, I'm Dominik 👋 <div align = 'right'> ![](https://komarev.com/ghpvc/?username=domel2222&color=orange)</div>
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://pl.linkedin.com/in/dominik-wiklinski)
