@@ -8,5 +8,8 @@
 - 📫 How to reach me: Reach out and connect with me on LinkedIn! 👆
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domel2222&theme=chartreuse-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&theme=chartreuse-dark&layout=compact)
+![GitHub Stats]
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=domel2222&theme=chartreuse-dark&count_private=true"/> </a>
+![Top Langs]
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&theme=chartreuse-dark&layout=compact"/></a>
+
