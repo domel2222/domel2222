@@ -12,5 +12,5 @@
 </a>
 <br>
 <a href="https://github.com/domel2222"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&theme=react&layout=compact" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&theme=Gradient&layout=compact" /> 
 </a>
