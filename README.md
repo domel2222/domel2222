@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/domel2222"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=domel2222&theme=chartreuse-dark&count_private=true" />  </a>
-<a href="https://github.com/domel2222"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&theme=chartreuse-dark&layout=compact" /> </a>
+<a href="https://github.com/domel2222"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&layout=compact" /> </a>
 
 <a href="https://github.com/domel2222">
 <img src="https://github-readme-stats.vercel.app/api?username=domel2222&count_private=true&show_icons=true&hide=stars" />
