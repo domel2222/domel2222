@@ -1,4 +1,4 @@
-### Hi there, I'm Dominik 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=domel2222&color=orange)</div>
+### Hi there, I'm Dominik 👋 <div align = 'right'>![] (https://komarev.com/ghpvc/?username=domel2222&color=orange)</div>
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://pl.linkedin.com/in/dominik-wiklinski)
@@ -10,7 +10,4 @@
 <a href="https://github.com/domel2222">
 <img src="https://github-readme-stats.vercel.app/api?username=domel2222&theme=github_dark&count_private=true&show_icons=true&hide=stars" />
 </a>
-<br>
-<a href="https://github.com/domel2222"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domel2222&theme=github_dark&layout=compact" /> 
-</a>
+
